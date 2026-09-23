@@ -4,10 +4,9 @@
 # my1stRpkg
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
-The goal of my1stRpkg is to …
+The goal of my1stRpkg is to MUAHAHAHAHAHAHAHA get hacked
 
 ## Installation
 
@@ -15,8 +14,8 @@ You can install the development version of my1stRpkg from
 [GitHub](https://github.com/) with:
 
 ``` r
-#install.packages("pak")
-#pak::pak("h-boehm/mypkg_hannah")
+# install.packages("pak")
+pak::pak("h-boehm/mypkg_hannah")
 ```
 
 ## Example

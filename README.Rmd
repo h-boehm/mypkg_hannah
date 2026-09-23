@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of my1stRpkg is to ...
+The goal of my1stRpkg is to MUAHAHAHAHAHAHAHA get hacked
 
 ## Installation
 
